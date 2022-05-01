@@ -73,7 +73,7 @@ WALKING_DOWNSTAIRS, SITTING, STANDING,LAYING
 Class:        - character
 
 
-### tidy_data$SubjectNUmber: 
+### tidy_data$subjectNUmber: 
 Description:   - numbers from 1 to 30 labels Person (subject) who performed the specified activity while measurements were taken   
 Class:         - numeric
 
