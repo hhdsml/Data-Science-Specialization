@@ -59,7 +59,8 @@ The following files are available for the train and test data. Descriptions are 
 
 
 ## Tidy data description
-180 objects with 81 variable
+180 objects with 81 variable.
+
 The description of the applied columns is as follows, all other columns "measurements" are described in the features_info.txt file in the original raw data set.
 
 Notes:   
